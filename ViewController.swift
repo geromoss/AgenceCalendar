@@ -14,8 +14,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var mi_coleccion: UICollectionView!
     //fileprivate var numbers: [Int] = []
     //var numbers: [Int] = []
-    let bgColors = [UIColor.brown, UIColor.gray, UIColor.green, UIColor.orange, UIColor.cyan]
-    var tematica = ["Integrating swift with objective-c", "What's the new in LLVM", "View Controllers advanced in iOS 8", "Working With Metal: Overview", "Cross Platform Nearby Networking", "TextKit and Core text Lab", "Foundtaion Lab", "iCloud Document Labs", "Core Data Lab", "The New Itunes", "Debudding Xcode 6", "Build Adaptive Apps with UIkit", "Working With Metal: Fundamental", ""]
+    let bgColors = [UIColor.brown, UIColor.gray, UIColor.green, UIColor.orange, UIColor.cyan, UIColor.darkGray, UIColor.purple]
+    var tematica = ["Integrating swift with objective-c", "What's the new in LLVM", "View Controllers advanced in iOS 8", "Working With Metal: Overview", "Cross Platform Nearby Networking", "TextKit and Core text Lab", "Foundtaion Lab", "iCloud Document Labs", "Core Data Lab", "The New Itunes", "Debudding Xcode 6", "Build Adaptive Apps with UIkit", "Working With Metal: Fundamental", "Keychain and Authentication", "Swift PLaygrounds", "Camera Capture: manual controls", "Working with Metal: Advance", "CocoaTouch Advance"]
    
     fileprivate var longPressGesture: UILongPressGestureRecognizer!
     
